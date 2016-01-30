@@ -25,5 +25,5 @@ javascript
 
 ```sh
 npm install
-
+gulp
 ```
