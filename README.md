@@ -4,7 +4,7 @@ Web Application StarterKit
 
 Powered By
 * golang
-* angular2
+* [angular2 (beta2)](https://angular.io/)
 * PostgreSQL
 
 
